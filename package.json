@@ -1,7 +1,7 @@
 {
   "name": "fetch-axios",
   "version": "1.0.0",
-  "description": "",
+  "description": "Wrapper on axios",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts"
